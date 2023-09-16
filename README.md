@@ -5,7 +5,7 @@ Also known as Alif, web developer from Indonesia.
 -------------------------------------------------
 
 * 🌍  I'm based in indonesia
-* 🖥️  See my portfolio at [M Alif fadlan](http://https://portofoliov2.netlify.app/)
+* 🖥️  See my portfolio at [M Alif fadlan](https://portofoliov2.netlify.app/)
 * ✉️  You can contact me at [fatahhamidzan@gmail.com](mailto:fatahhamidzan@gmail.com)
 * 🧠  I'm learning r
 
