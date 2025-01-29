@@ -68,7 +68,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://readmetes.netlify.app/" title="Go to Source">
+    <a href="https://github.com/MAliffadlan/MAliffadlan" title="Go to Source">
       <img align="left" width=390 src="https://readmetes.netlify.app/" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
