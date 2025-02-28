@@ -8,7 +8,7 @@
 
 # Hi 👋 My name is M Alif fadlan
 
-## Also known as Alif, web developer from Indonesia.Ethical Hacking
+## Also known as Alif, web developer from Indonesia & Ethical Hacking
 
 - 🌍  I'm based in indonesia
 - 🖥️  See my portfolio at [M Alif fadlan](https://portofoliov2.netlify.app/)
