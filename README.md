@@ -18,10 +18,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/snake.svg" alt="Snake animation" />
-
-###
-
 - 🌍  I'm based in indonesia
 - 🖥️  See my portfolio at [M Alif fadlan](https://portofoliov2.netlify.app/)
 - ✉️  You can contact me at [maliffadlan@gmail.com](mailto:maliffadlan@gmail.com)
