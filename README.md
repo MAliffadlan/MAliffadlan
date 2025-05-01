@@ -10,6 +10,18 @@
 
 ## Also known as Alif, web developer from Indonesia & Ethical Hacking
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/snake.svg" alt="Snake animation" />
+
+###
+
 - 🌍  I'm based in indonesia
 - 🖥️  See my portfolio at [M Alif fadlan](https://portofoliov2.netlify.app/)
 - ✉️  You can contact me at [maliffadlan@gmail.com](mailto:maliffadlan@gmail.com)
