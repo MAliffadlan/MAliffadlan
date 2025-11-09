@@ -25,7 +25,7 @@
 - 🌍  I'm based in indonesia
 - 🖥️  See my portfolio at [M Alif fadlan](https://portofoliov2.netlify.app/)
 - ✉️  You can contact me at [maliffadlan@gmail.com](mailto:maliffadlan@gmail.com)
-- 🧠  I'm learning Docker
+- 🧠  I'm learning Livewire
 
 <a href="https://twitter.com/PR4GANN" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/fadlan6849?logo=twitter&style=for-the-badge&color=ffffff&labelColor=581c87"
