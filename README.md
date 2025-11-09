@@ -18,7 +18,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
