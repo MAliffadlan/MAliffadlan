@@ -153,7 +153,7 @@
 
 <div align="center">
   <a href="https://github.com/MAliffadlan/blog-website-blkk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=dark&hide_border=true&title_color=00ff00&icon_color=00ff00" />
   </a>
 </div>
 
