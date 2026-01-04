@@ -12,8 +12,8 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAliffadlan&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/MAliffadlan?style=for-the-badge&color=00ff00&logo=github&label=Followers" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=MAliffadlan&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS&label_color=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MAliffadlan?style=for-the-badge&color=00ff00&logo=github&label=Followers&logoColor=fff&labelColor=0d1117" alt="Followers"/>
 </div>
 
 <br/>
