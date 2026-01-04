@@ -6,7 +6,7 @@
   <br/>
   
   <!-- Cool animated banner with cleaner text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=180&section=header&text=Ethical%20Hacker&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Full%20Stack%20Dev&descFontSize=20&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Ethical%20Hacker&fontSize=50&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Full%20Stack%20Dev&descFontSize=20&descAlignY=60&descAlign=50" width="100%"/>
 
 </div>
 
