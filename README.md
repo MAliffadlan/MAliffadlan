@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/snake.svg" alt="Snake animation" width="100%" />
+    <img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph.svg" alt="Pac-Man animation" width="100%" />
 </div>
 
 <br/>
