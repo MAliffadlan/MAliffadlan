@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Linux Terminal Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;M+Alif+Fadlan+%F0%9F%90%A7;Linux+Enthusiast+%7C+Developer;Ethical+Hacker+%7C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;M+Alif+Fadlan+%F0%9F%90%A7+%7C+Developer;Ethical+Hacker+%7C+Indonesia" alt="Typing SVG" />
   
   <br/>
   
