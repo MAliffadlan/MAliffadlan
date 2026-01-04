@@ -127,23 +127,23 @@
 
 <br/>
 
-## 🔗 Connect
+## 🤝 `$ cat socials.conf`
 
 <div align="center">
   <a href="https://discord.com/users/PR4GAN#1165">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
   </a>
   <a href="https://www.instagram.com/fadlan6849">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35"/>
   </a>
   <a href="https://x.com/mectov_">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35"/>
   </a>
   <a href="https://www.youtube.com/c/fadlan6849">
-    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35"/>
   </a>
   <a href="https://www.github.com/MAliffadlan">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="35"/>
   </a>
 </div>
 
