@@ -1,67 +1,99 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+M+Alif+Fadlan;Full+Stack+Developer;Ethical+Hacker;Based+in+Indonesia" alt="Typing SVG" />
+</div>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2+&size=24&duration=4000&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%98%8D;This+is+Muhammad+Alif+fadlan+....;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=MAliffadlan.MAliffadlan">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MAliffadlan.MAliffadlan&left_color=1a1b27&right_color=7aa2f7&left_text=Visitors" alt="visitor badge" />
   </a>
-</h3>
+</div>
 
-# Hi 👋 My name is M Alif fadlan
+<br/>
 
-## Also known as Alif, web developer from Indonesia & Ethical Hacking
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
 
-###
+<div align="center">
 
+## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%">
 
-###
+- 🌍 Based in **Indonesia**
+- 💻 Web Developer & Ethical Hacking Enthusiast
+- 🔭 Working on **Interesting Projects**
+- 🧠 Learning **Livewire** & **Modern Web Tech**
+- ⚡ Fun fact: I love solving complex problems!
+- 🖥️ Portfolio: [My Portfolio](https://portofoliov2.netlify.app/)
+- 📧 Contact: [maliffadlan@gmail.com](mailto:maliffadlan@gmail.com)
 
-- 🌍  I'm based in indonesia
-- 🖥️  See my portfolio at [M Alif fadlan](https://portofoliov2.netlify.app/)
-- ✉️  You can contact me at [maliffadlan@gmail.com](mailto:maliffadlan@gmail.com)
-- 🧠  I'm learning Livewire
+</td>
+<td width="40%">
+  <div align="center">
+    <h3>My Tech Stack</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,dotnet,ps,ai,mysql,php,laravel,git,github,vscode,linux&theme=dark&perline=5" />
+    </a>
+  </div>
+</td>
+</tr>
+</table>
 
-<a href="https://twitter.com/PR4GANN" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/fadlan6849?logo=twitter&style=for-the-badge&color=ffffff&labelColor=581c87"
-/></a><a href="https://www.github.com/MAliffadlan" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MAliffadlan?logo=github&style=for-the-badge&color=ffffff&labelColor=581c87" /></a>
+</div>
 
-### Skills
+<br/>
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://filebase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" /></a>
-</p>
+## 📊 GitHub Stats
 
-### Socials
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAliffadlan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliffadlan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+</div>
 
-<p align="left"> <a href="https://discord.com/users/PR4GAN#1165" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MAliffadlan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/fadlan6849" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://x.com/mectov_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/fadlan6849" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<br/>
 
-### Badges
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAliffadlan&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
 
-<b>My GitHub Stats</b>
+<br/>
 
-<a href="http://www.github.com/MAliffadlan"><img src="https://github-readme-stats.vercel.app/api?username=MAliffadlan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=581c87&hide_border=true&show_icons=true" alt="MAliffadlan's GitHub stats" /></a>
+## 🤝 Connect with Me
 
-<a href="http://www.github.com/MAliffadlan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAliffadlan&stroke=ffffff&background=581c87&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <a href="https://discord.com/users/PR4GAN#1165" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
+  </a>
+  <a href="https://www.instagram.com/fadlan6849" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
+  </a>
+  <a href="https://x.com/mectov_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://www.youtube.com/c/fadlan6849" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo" />
+  </a>
+  <a href="https://www.github.com/MAliffadlan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo" />
+  </a>
+</div>
 
-<a href="http://www.github.com/MAliffadlan"><img src="https://activity-graph.herokuapp.com/graph?username=MAliffadlan&bg_color=581c87&color=ffffff&line=ffffff&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<br/>
 
-<a href="https://github.com/MAliffadlan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliffadlan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <h3>🏆 Top Repositories</h3>
+  <a href="https://github.com/MAliffadlan/blog-website-blkk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
-<b>Top Repositories</b>
+<br/>
 
-<div width="100%" align="center"><a href="https://github.com/MAliffadlan/blog-website-blkk" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=581c87&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
