@@ -101,8 +101,8 @@
 ## 📊 `$ htop --github-stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAliffadlan&show_icons=true&theme=dark&hide_border=true&icon_color=00ff00&title_color=00ff00" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliffadlan&layout=compact&theme=dark&hide_border=true&title_color=00ff00" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAliffadlan&show_icons=true&theme=dark&hide_border=true&icon_color=00ff00&title_color=00ff00" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MAliffadlan&layout=compact&theme=dark&hide_border=true&title_color=00ff00" height="180" alt="languages graph" />
 </div>
 
 <br/>
@@ -153,7 +153,7 @@
 
 <div align="center">
   <a href="https://github.com/MAliffadlan/blog-website-blkk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=dark&hide_border=true&title_color=00ff00&icon_color=00ff00" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=dark&hide_border=true&title_color=00ff00&icon_color=00ff00" />
   </a>
 </div>
 
