@@ -1,99 +1,167 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+M+Alif+Fadlan;Full+Stack+Developer;Ethical+Hacker;Based+in+Indonesia" alt="Typing SVG" />
+  
+  <!-- Animated Linux Terminal Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+whoami;M+Alif+Fadlan+%F0%9F%90%A7;Linux+Enthusiast+%7C+Developer;Ethical+Hacker+%7C+Indonesia" alt="Typing SVG" />
+  
+  <br/>
+  
+  <!-- Cool animated banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=🐧%20Linux%20Lover&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
 </div>
 
+<!-- Visitor Badge -->
 <div align="center">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=MAliffadlan.MAliffadlan">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MAliffadlan.MAliffadlan&left_color=1a1b27&right_color=7aa2f7&left_text=Visitors" alt="visitor badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MAliffadlan&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/MAliffadlan?style=for-the-badge&color=00ff00&logo=github&label=Followers" alt="Followers"/>
 </div>
 
 <br/>
 
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/snake.svg" alt="Snake animation" width="100%">
 </div>
 
 <br/>
 
+<!-- Terminal-style About Me -->
 <div align="center">
 
-## 🚀 About Me
+## �️ `$ cat about_me.txt`
 
+```bash
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   ██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗                        │
+│   ██║     ██║████╗  ██║██║   ██║╚██╗██╔╝                        │
+│   ██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝                         │
+│   ██║     ██║██║╚██╗██║██║   ██║ ██╔██╗                         │
+│   ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗                        │
+│   ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ENTHUSIAST            │
+│                                                                  │
+│   🐧 Daily Driver: Arch Linux / Ubuntu                          │
+│   🌍 Location: Indonesia                                         │
+│   💻 Role: Full Stack Developer & Ethical Hacker                │
+│   � Favorite Tools: Vim, Tmux, Zsh, Docker                     │
+│   🧠 Currently Learning: Livewire & Security                    │
+│   ⚡ Fun Fact: I use Arch btw 😎                                 │
+│                                                                  │
+│   📧 maliffadlan@gmail.com                                       │
+│   🌐 https://portofoliov2.netlify.app/                          │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+## �️ `$ neofetch --tech-stack`
+
+<div align="center">
 <table>
 <tr>
-<td width="60%">
+<td valign="top" width="33%">
 
-- 🌍 Based in **Indonesia**
-- 💻 Web Developer & Ethical Hacking Enthusiast
-- 🔭 Working on **Interesting Projects**
-- 🧠 Learning **Livewire** & **Modern Web Tech**
-- ⚡ Fun fact: I love solving complex problems!
-- 🖥️ Portfolio: [My Portfolio](https://portofoliov2.netlify.app/)
-- 📧 Contact: [maliffadlan@gmail.com](mailto:maliffadlan@gmail.com)
+### 🐧 OS & Tools
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,debian,bash,vim,neovim,docker&theme=dark&perline=4" />
+</a>
+</div>
 
 </td>
-<td width="40%">
-  <div align="center">
-    <h3>My Tech Stack</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,dotnet,ps,ai,mysql,php,laravel,git,github,vscode,linux&theme=dark&perline=5" />
-    </a>
-  </div>
+<td valign="top" width="33%">
+
+### 💻 Languages
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,js,java,python,html,css,mysql,bash&theme=dark&perline=4" />
+</a>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🚀 Frameworks
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,nodejs,git,github,vscode,figma&theme=dark&perline=4" />
+</a>
+</div>
+
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 `$ htop --github-stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAliffadlan&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliffadlan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAliffadlan&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
-<br/>
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://discord.com/users/PR4GAN#1165" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
-  </a>
-  <a href="https://www.instagram.com/fadlan6849" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://x.com/mectov_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://www.youtube.com/c/fadlan6849" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo" />
-  </a>
-  <a href="https://www.github.com/MAliffadlan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MAliffadlan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliffadlan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🏆 Top Repositories</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAliffadlan&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="streak graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAliffadlan&theme=github-compact&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+## 🏆 `$ ls achievements/`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MAliffadlan&theme=matrix&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
+</div>
+
+<br/>
+
+## 🤝 `$ cat socials.conf`
+
+<div align="center">
+  <a href="https://discord.com/users/PR4GAN#1165">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.instagram.com/fadlan6849">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="https://x.com/mectov_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.youtube.com/c/fadlan6849">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="35"/>
+  </a>
+  <a href="https://www.github.com/MAliffadlan">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="35"/>
+  </a>
+</div>
+
+<br/>
+
+## 📦 `$ ls -la ~/repos/`
+
+<div align="center">
   <a href="https://github.com/MAliffadlan/blog-website-blkk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MAliffadlan&repo=blog-website-blkk&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00" />
   </a>
 </div>
 
 <br/>
 
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=%24+echo+%22Thanks+for+visiting!%22;%24+exit+0" alt="Footer"/>
 </div>
