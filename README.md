@@ -12,7 +12,7 @@
 
 <!-- Visitor Badge -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MAliffadlan&style=for-the-badge&color=21262d&label=PROFILE+VIEWS&logoColor=fff&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=MAliffadlan&style=for-the-badge&color=21262d&label=PROFILE+VIEWS&label_color=0d1117" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/MAliffadlan?style=for-the-badge&color=21262d&logo=github&label=Followers&logoColor=fff&labelColor=0d1117" alt="Followers"/>
 </div>
 
