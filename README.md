@@ -43,12 +43,12 @@
 │   🐧 Daily Driver: Arch Linux                                    │
 │   🌍 Location: Indonesia                                         │
 │   💻 Role: Full Stack Developer & Ethical Hacker                 │
-│   � Favorite Tools: Vim, Tmux, Zsh, Docker                      │
+│   � Favorite Tools: Vim, Tmux, Zsh, Docker                       │
 │   🧠 Currently Learning: Livewire & Security                     │
-│   ⚡ Fun Fact: I use Arch btw 😎                                 │
+│   ⚡ Fun Fact: I use Arch btw 😎                                  │
 │                                                                  │
 │   📧 maliffadlan@gmail.com                                       │
-│   🌐 https://portofoliov2.netlify.app/                           │
+│   🌐 https://maliffadlan.my.id                                   │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
