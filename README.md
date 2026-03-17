@@ -122,7 +122,7 @@
 ## 🏆 `$ ls achievements/`
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MAliffadlan&theme=darkhub&no-frame=true&no-bg=true&column=7" width="100%" alt="Trophy" />
+  <img src="https://raw.githubusercontent.com/MAliffadlan/MAliffadlan/output/github-profile-trophy.svg" width="100%" alt="Trophy" />
 </div>
 
 <br/>
